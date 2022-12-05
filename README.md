@@ -1,5 +1,5 @@
 # Web-Game-Course-Project
-Web Game Built with Elm (Programming Language) in UM-SJTU JI VG100 Course
+Web Game Built with Elm for UM-SJTU JI VG100
 
 Contributors: Yu Xia, Yunzhen Liu, Baiqi Liu, Shuyuan Yang
 
