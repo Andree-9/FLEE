@@ -1,4 +1,4 @@
-# Web-Game-Course-Project
+# FLEE
 Web Game Built with Elm for UM-SJTU JI VG100
 
 Contributors: Yu Xia, Yunzhen Liu, Baiqi Liu, Shuyuan Yang
